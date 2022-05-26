@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python train.py --sources 4 --data_len 32 --result_path /home/jinyoung/MUSDB_VAE_BSS/result/32/

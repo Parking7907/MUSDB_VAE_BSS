@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python train.py --data_len 64 --result_path /home/jinyoung/irmas_VAE_BSS/result/64/
